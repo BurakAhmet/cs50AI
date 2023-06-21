@@ -1,5 +1,6 @@
 # CS50AI
 Repository for Harvard's CS50AI course.
+
 [Course introduction](https://cs50.harvard.edu/ai/2020/)
 
 # Contents
