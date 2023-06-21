@@ -1,5 +1,5 @@
 # CS50AI
-This repository is for Harvard's CS50AI course.
+Repository for Harvard's CS50AI course.
 
 # Contents
 - [Search](https://github.com/BurakAhmet/cs50AI/tree/main/0.Search):
