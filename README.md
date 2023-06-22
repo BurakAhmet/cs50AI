@@ -9,4 +9,4 @@ For more info check this [CS50AI course introduction](https://cs50.harvard.edu/a
   - [Tic Tac Toe](https://github.com/BurakAhmet/cs50AI/tree/main/0.Search/tictactoe): Classic tic tac toe game that powered by minimax algorithm. AI always calculates the best move there is no way to beat it.
     ![tictactoe 184829](https://github.com/BurakAhmet/cs50AI/assets/89780902/ec4faefa-aa9d-4c93-b4da-81a01a4775e1)
 - Knowledge:
-  - [Knights](https://github.com/BurakAhmet/cs50AI/tree/main/1.Knowledge/knights): A program that solves the "knights and knaves" puzzles.
+  - [Knights](https://github.com/BurakAhmet/cs50AI/tree/main/1.Knowledge/knights): A program that solves the "Knights and Knaves" puzzles with using logical statements.
