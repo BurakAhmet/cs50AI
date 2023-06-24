@@ -7,7 +7,7 @@ For more info check this [CS50AI course introduction](https://cs50.harvard.edu/a
 - Search:
   - [Degrees](https://github.com/BurakAhmet/cs50AI/tree/main/0.Search/degrees): A software that unveils the precise number of "degrees of separation" between two actors by leveraging the vast IMDb database.
   - [Tic Tac Toe](https://github.com/BurakAhmet/cs50AI/tree/main/0.Search/tictactoe): Classic tic tac toe game that powered by minimax algorithm. AI always calculates the best move there is no way to beat it.
-    ![tictactoe](https://github.com/BurakAhmet/cs50AI/assets/89780902/ec4faefa-aa9d-4c93-b4da-81a01a4775e1)
+    ![tictactoe](https://github.com/BurakAhmet/cs50AI/assets/89780902/d273a5b8-6f24-4f23-96e7-004aaccabf53)
 - Knowledge:
   - [Knights](https://github.com/BurakAhmet/cs50AI/tree/main/1.Knowledge/knights): A program that solves the "Knights and Knaves" puzzles with using logical statements.
   - [Minesweeper](https://github.com/BurakAhmet/cs50AI/tree/main/1.Knowledge/minesweeper): Minesweeper game with helps of artificial intelligence. When clicks on AI move, AI calculates the best move and plays it. If there is no computable move then AI makes a random move.
