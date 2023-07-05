@@ -17,3 +17,5 @@ For more info check this [CS50AI course introduction](https://cs50.harvard.edu/a
     ![minesweeper](https://github.com/BurakAhmet/cs50AI/assets/89780902/6e3d5032-acd1-4b88-b98b-c4312f1eaa7c)
 - Uncertainty
   - [Pagerank](https://github.com/BurakAhmet/cs50AI/tree/main/2.Uncertainty/pagerank): Calculates the webpages' ranks using Google's PageRank algorithm
+
+- [Heredity](https://github.com/BurakAhmet/cs50AI/tree/main/2.Uncertainty/heredity): The AI program that checks the probability of occurrence of a specific gene in children.
