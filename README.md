@@ -19,3 +19,8 @@ For more info check this [CS50AI course introduction](https://cs50.harvard.edu/a
   - [Pagerank](https://github.com/BurakAhmet/cs50AI/tree/main/2.Uncertainty/pagerank): Calculates the webpages' ranks using Google's PageRank algorithm
 
   - [Heredity](https://github.com/BurakAhmet/cs50AI/tree/main/2.Uncertainty/heredity): The AI program that checks the probability of occurrence of a specific gene in children.
+
+- Optimization
+    - [Crossword](https://github.com/BurakAhmet/cs50AI/tree/main/3.Optimization/crossword): AI that can generates crossword puzzles.
+      ![crossword_puzzle](https://github.com/BurakAhmet/cs50AI/assets/89780902/d9ba3e74-6c1d-466c-ab69-bc72c3e83fec)
+
