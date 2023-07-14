@@ -15,7 +15,9 @@ For more info check this [CS50AI course introduction](https://cs50.harvard.edu/a
   - [Knights](https://github.com/BurakAhmet/cs50AI/tree/main/1.Knowledge/knights): A program that solves the "Knights and Knaves" puzzles with using logical statements.
     
   - [Minesweeper](https://github.com/BurakAhmet/cs50AI/tree/main/1.Knowledge/minesweeper): Minesweeper game with helps of artificial intelligence. When clicks on AI move, AI calculates the best move and plays it. If there is no computable move then AI makes a random move.
+    
     ![minesweeper](https://github.com/BurakAhmet/cs50AI/assets/89780902/6e3d5032-acd1-4b88-b98b-c4312f1eaa7c)
+    
 - ### Uncertainty
   - [Pagerank](https://github.com/BurakAhmet/cs50AI/tree/main/2.Uncertainty/pagerank): Calculates the webpages' ranks using Google's PageRank algorithm
 
