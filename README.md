@@ -23,4 +23,7 @@ For more info check this [CS50AI course introduction](https://cs50.harvard.edu/a
 - ### Optimization
     - [Crossword](https://github.com/BurakAhmet/cs50AI/tree/main/3.Optimization/crossword): AI that can generates crossword puzzles.
       ![crossword_puzzle](https://github.com/BurakAhmet/cs50AI/assets/89780902/d9ba3e74-6c1d-466c-ab69-bc72c3e83fec)
+      
+- ### Learning
+    - [Shopping](https://github.com/BurakAhmet/cs50AI/tree/main/4.Learning/shopping): An AI to predict whether online shopping customers will complete a purchase.
 
