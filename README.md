@@ -30,4 +30,6 @@ For more info check this [CS50AI course introduction](https://cs50.harvard.edu/a
       
 - ### Learning
     - [Shopping](https://github.com/BurakAhmet/cs50AI/tree/main/4.Learning/shopping): An AI to predict whether online shopping customers will complete a purchase.
+      
+    - [Nim](https://github.com/BurakAhmet/cs50AI/tree/main/4.Learning/nim): An AI that teaches itself to play Nim through reinforcement learning.
 
