@@ -6,5 +6,5 @@ An AI that teaches itself to play Nim through reinforcement learning.
     Depending on the version being played, the goal of the game is either to avoid taking the last object or to take the last object.
 
 
-#### Usage:
+### Usage:
 Write "python play.py" to your command line app and start to play.
