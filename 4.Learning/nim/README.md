@@ -7,4 +7,4 @@ An AI that teaches itself to play Nim through reinforcement learning.
 
 
 #### Usage:
-write "python play.py" to your command line app and start to play.
+Write "python play.py" to your command line app and start to play.
