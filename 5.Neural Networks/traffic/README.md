@@ -1,4 +1,4 @@
-An AI to identify which traffic sign appears in a photograph with using neural networks.
+An AI to identify which traffic sign appears in a photograph using neural networks.
 
 ### My Conclusions
 
