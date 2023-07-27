@@ -13,9 +13,10 @@ An AI to identify which traffic sign appears in a photograph using neural networ
 
 
 ### Usage
-  Download requirements: pip3 install -r requirements.txt
+  Download requirements: 
+  <code>pip3 install -r requirements.txt </code>
   
-  Start application: python traffic.py gtsrb
+  Start application: <code>python traffic.py gtsrb</code>
   * Download the data set:
     - [Data set](https://cdn.cs50.net/ai/2020/x/projects/5/gtsrb.zip)
     - [Small data set](https://cdn.cs50.net/ai/2020/x/projects/5/gtsrb-small.zip)
