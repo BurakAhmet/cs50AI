@@ -34,7 +34,7 @@ For more info check this [CS50AI course introduction](https://cs50.harvard.edu/a
     - [Nim](https://github.com/BurakAhmet/cs50AI/tree/main/4.Learning/nim): An AI that teaches itself to play Nim through reinforcement learning.
 
 - ### Neural Networks
-    - [Traffic](https://github.com/BurakAhmet/cs50AI/tree/main/5.Neural%20Networks/traffic): An AI to identify which traffic sign appears in a photograph using neural networks.
+    - [Traffic](https://github.com/BurakAhmet/cs50AI/tree/main/5.Neural%20Networks/traffic): An AI to identify which traffic sign appears in a photograph using neural networks and supervised learning.
  
       ![Ekran görüntüsü 2023-07-23 185922](https://github.com/BurakAhmet/cs50AI/assets/89780902/c8e6d940-d631-4a0e-9e97-7b97e7fd5be2)
 
