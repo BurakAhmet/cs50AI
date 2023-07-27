@@ -1,7 +1,7 @@
 # CS50AI
 Repository for Harvard's CS50AI course.
 
-For more info check this [CS50AI course introduction](https://cs50.harvard.edu/ai/2020/).
+For more info check this: [CS50AI course introduction](https://cs50.harvard.edu/ai/2020/).
 
 ## Contents
 - ### Search
