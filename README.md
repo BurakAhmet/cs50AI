@@ -9,14 +9,14 @@ For more info check this [CS50AI course introduction](https://cs50.harvard.edu/a
     
   - [Tic Tac Toe](https://github.com/BurakAhmet/cs50AI/tree/main/0.Search/tictactoe): Classic tic tac toe game that powered by minimax algorithm. AI always calculates the best move. There is no way to beat it.
     
-    ![tictactoe](https://github.com/BurakAhmet/cs50AI/assets/89780902/d273a5b8-6f24-4f23-96e7-004aaccabf53)
+    ![Tictactoe](https://github.com/BurakAhmet/cs50AI/assets/89780902/d273a5b8-6f24-4f23-96e7-004aaccabf53)
     
 - ### Knowledge
   - [Knights](https://github.com/BurakAhmet/cs50AI/tree/main/1.Knowledge/knights): A program that solves the "Knights and Knaves" puzzles with using logical statements.
     
   - [Minesweeper](https://github.com/BurakAhmet/cs50AI/tree/main/1.Knowledge/minesweeper): Minesweeper game with helps of artificial intelligence. When clicks on AI move, AI calculates the best move and plays it. If there is no computable move then AI makes a random move.
     
-    ![minesweeper](https://github.com/BurakAhmet/cs50AI/assets/89780902/6e3d5032-acd1-4b88-b98b-c4312f1eaa7c)
+    ![Minesweeper](https://github.com/BurakAhmet/cs50AI/assets/89780902/6e3d5032-acd1-4b88-b98b-c4312f1eaa7c)
     
 - ### Uncertainty
   - [Pagerank](https://github.com/BurakAhmet/cs50AI/tree/main/2.Uncertainty/pagerank): Calculates the webpages' ranks using Google's PageRank algorithm
@@ -36,10 +36,11 @@ For more info check this [CS50AI course introduction](https://cs50.harvard.edu/a
 - ### Neural Networks
     - [Traffic](https://github.com/BurakAhmet/cs50AI/tree/main/5.Neural%20Networks/traffic): An AI to identify which traffic sign appears in a photograph using neural networks and supervised learning.
  
-      ![Ekran görüntüsü 2023-07-23 185922](https://github.com/BurakAhmet/cs50AI/assets/89780902/c8e6d940-d631-4a0e-9e97-7b97e7fd5be2)
+      ![Traffic](https://github.com/BurakAhmet/cs50AI/assets/89780902/c8e6d940-d631-4a0e-9e97-7b97e7fd5be2)
 
 - ### Language
     - [Parser](https://github.com/BurakAhmet/cs50AI/tree/main/6.Language/parser): An example program of Naturel Language Processing (NLP). This is an AI to parse sentences and extract noun phrases.
   
+      ![Parser](https://github.com/BurakAhmet/cs50AI/assets/89780902/583b33aa-fec4-4ac4-84d5-836b08d83b74)
 
 
