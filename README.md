@@ -38,4 +38,7 @@ For more info check this [CS50AI course introduction](https://cs50.harvard.edu/a
  
       ![Ekran görüntüsü 2023-07-23 185922](https://github.com/BurakAhmet/cs50AI/assets/89780902/c8e6d940-d631-4a0e-9e97-7b97e7fd5be2)
 
+- ### Language
+  
+
 
