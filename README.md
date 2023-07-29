@@ -43,4 +43,9 @@ For more info check this: [CS50AI course introduction](https://cs50.harvard.edu/
   
       ![Parser](https://github.com/BurakAhmet/cs50AI/assets/89780902/583b33aa-fec4-4ac4-84d5-836b08d83b74)
 
+    - [Questions](https://github.com/BurakAhmet/cs50AI/tree/main/6.Language/questions): An AI to answer questions. If you have specific questions about a subject, load the necessary files to this AI and start to ask what you wonder.
+
+      ![Questions](https://github.com/BurakAhmet/cs50AI/assets/89780902/f61e3425-7125-43de-9ac7-c6612fdfe6d4)
+
+
 
