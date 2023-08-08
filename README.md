@@ -39,7 +39,7 @@ For more info check [CS50’s Introduction to Artificial Intelligence with Pytho
       ![Traffic](https://github.com/BurakAhmet/cs50AI/assets/89780902/c8e6d940-d631-4a0e-9e97-7b97e7fd5be2)
 
 - ### Language
-    - [Parser](https://github.com/BurakAhmet/cs50AI/tree/main/6.Language/parser): An example program of Naturel Language Processing (NLP). This is an AI to parse sentences and extract noun phrases.
+    - [Parser](https://github.com/BurakAhmet/cs50AI/tree/main/6.Language/parser): An example program of Natural Language Processing (NLP). This is an AI designed to parse sentences and extract noun phrases.
   
       ![Parser](https://github.com/BurakAhmet/cs50AI/assets/89780902/583b33aa-fec4-4ac4-84d5-836b08d83b74)
 
