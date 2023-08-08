@@ -43,7 +43,7 @@ For more info check [CS50’s Introduction to Artificial Intelligence with Pytho
   
       ![Parser](https://github.com/BurakAhmet/cs50AI/assets/89780902/583b33aa-fec4-4ac4-84d5-836b08d83b74)
 
-    - [Questions](https://github.com/BurakAhmet/cs50AI/tree/main/6.Language/questions): An AI to answer questions. If you have specific questions about a subject, load the necessary files into this AI and start asking what you wonder..
+    - [Questions](https://github.com/BurakAhmet/cs50AI/tree/main/6.Language/questions): An AI to answer questions. If you have specific questions about a subject, load the necessary files into this AI and start asking what you wonder.
 
       ![Questions](https://github.com/BurakAhmet/cs50AI/assets/89780902/f61e3425-7125-43de-9ac7-c6612fdfe6d4)
 
