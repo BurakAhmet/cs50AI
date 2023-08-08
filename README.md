@@ -12,7 +12,7 @@ For more info check [CS50’s Introduction to Artificial Intelligence with Pytho
     ![Tictactoe](https://github.com/BurakAhmet/cs50AI/assets/89780902/d273a5b8-6f24-4f23-96e7-004aaccabf53)
     
 - ### Knowledge
-  - [Knights](https://github.com/BurakAhmet/cs50AI/tree/main/1.Knowledge/knights): A program that solves the "Knights and Knaves" puzzles with using logical statements.
+  - [Knights](https://github.com/BurakAhmet/cs50AI/tree/main/1.Knowledge/knights): A program that solves the "Knights and Knaves" puzzles using logical statements.
     
   - [Minesweeper](https://github.com/BurakAhmet/cs50AI/tree/main/1.Knowledge/minesweeper): Minesweeper game with helps of artificial intelligence. When clicks on AI move, AI calculates the best move and plays it. If there is no computable move then AI makes a random move.
     
