@@ -1,7 +1,9 @@
 # CS50AI
 Project solutions repository for Harvard's CS50AI course.
 
-For more info check [CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020/).
+For more info about the course check [CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020/).
+
+![CS50AI](https://github.com/BurakAhmet/cs50AI/assets/89780902/74c03665-ed9f-45ec-8cbc-53a4114cf8e8)
 
 ## Contents
 - ### Search
