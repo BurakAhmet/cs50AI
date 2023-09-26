@@ -1,7 +1,7 @@
 # CS50AI
 Project solutions repository for Harvard's CS50AI course.
 
-Before take a look at the solutions check [Academic Honesty](https://cs50.harvard.edu/college/2021/fall/syllabus/#academic-honesty)
+Before take a look at the solutions check <i>[Academic Honesty](https://cs50.harvard.edu/college/2021/fall/syllabus/#academic-honesty)</i>.
 
 For more info about the course check [CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020/).
 
