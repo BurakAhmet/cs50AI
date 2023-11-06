@@ -3,7 +3,7 @@ import sys
 
 from util import Node, StackFrontier, QueueFrontier
 
-# Maps names to a set of corresponding person_ids kodun bok gibi olmuş kanka
+# Maps names to a set of corresponding person_ids
 names = {}
 
 # Maps person_ids to a dictionary of: name, birth, movies (a set of movie_ids)
