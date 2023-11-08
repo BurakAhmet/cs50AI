@@ -3,7 +3,7 @@ import sys
 import time
 
 import tictactoe as ttt
-
+# değişiklikleri yaptım
 pygame.init()
 size = width, height = 600, 400
 
