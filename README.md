@@ -57,7 +57,7 @@ For more info about the course check [CS50’s Introduction to Artificial Intell
 
       ![Questions](https://github.com/BurakAhmet/cs50AI/assets/89780902/f61e3425-7125-43de-9ac7-c6612fdfe6d4)
       
-    - [Attention](https://github.com/BurakAhmet/cs50AI/tree/main/6.Language/attention): An AI to predict a masked word in a text sequence.
+    - [Attention](https://github.com/BurakAhmet/cs50AI/tree/main/6.Language/attention): An AI to predict a masked word in a text sequence using BERT.
     ---
 
 
